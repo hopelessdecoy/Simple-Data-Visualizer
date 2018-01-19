@@ -10,5 +10,7 @@ Welcome to Data Visualizer!
 
 NOTE: Doesn't register negative numbers yet :(
 
+NOTE 2: Use Arrow keys to scroll!
+
 This was made by Paul Birkholtz using the AGK Language
 Special thanks to the AGK team, The Game Creators
