@@ -1,0 +1,9 @@
+Company Name:Stock Prices:Number of products:Number of Employees
+Nintendo		:410:42:663
+Ubisoft			:253:20:250
+EA				:330:95:167
+Sony			:124:32:451
+Bethesda		:285:23:259
+AMD				:155:8:70
+Intel			:223:32:102
+HopelessArts	:5:5:10
