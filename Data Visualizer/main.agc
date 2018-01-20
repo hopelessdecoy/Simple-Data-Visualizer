@@ -24,14 +24,14 @@ RequestKeyData()
 RequestNumData(DatType)
 SortData()
 
-	CreateText(1000, GetStringToken(RecordsCatArr[0], ":", DatType))
-	SetTextSize(1000, 5)
-	SetTextPosition(1000, 0, 1)
-	CreateSprite(2000, 6)
-	setspriteSize(2000, 25, 0.5)
-	SetSpritePosition(2000, 0.1, 5)
-
-	visualizeDat()
+CreateText(1000, GetStringToken(RecordsCatArr[0], ":", DatType))
+SetTextSize(1000, 5)
+SetTextPosition(1000, 0, 1)
+CreateSprite(2000, 6)
+setspriteSize(2000, 25, 0.5)
+SetSpritePosition(2000, 0.1, 5)
+	
+visualizeDat()
 
 	do
 		if(GetRawKeyState(38)= 1)
